@@ -1,4 +1,6 @@
-# ![quill-icons-logo](icons/quill_light.svg) Quill Icons
+<img align="left" width="80" height="80" src="icons/quill_light.svg" alt="Quill Icons Logo">
+
+# Quill Icons
 
 A light/dark file icon set for VSCode that borrows from and extends [Feather Icons](https://feathericons.com). A minimal icon theme is also included that only differentiates files and folders.
 
