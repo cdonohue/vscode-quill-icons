@@ -20,26 +20,26 @@ A light/dark low contrast file icon set for VSCode that borrows from and extends
 
 ### Icon reference
 
-| Name            | Icon                                        | Purpose                                                                                                              |
-| --------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Folder          | ![folder](icons/folder_light.svg)           | Collapsed Folders                                                                                                    |
-| Folder (Open)   | ![open-folder](icons/folder-open_light.svg) | Expanded Folders                                                                                                     |
-| File            | ![file](icons/file_light.svg)               | Fallback for files not decorated by another icon. In the minimal theme, it represents anything that is not a folder. |
-| Settings        | ![settings](icons/settings_light.svg)       | `package.json` and other configuration-related files                                                                 |
-| Prettier        | ![prettier](icons/prettier_light.svg)       | `.prettierrc`                                                                                                        |
-| ESLint          | ![eslint](icons/eslint_light.svg)           | `eslint` configurations                                                                                              |
-| Code            | ![code](icons/code_light.svg)               | Source code files (`.js`, `.py`, etc)                                                                                |
-| Markup          | ![markup](icons/html_light.svg)             | `.html`, `.xml`, etc                                                                                                 |
-| Hash            | ![hash](icons/hash_light.svg)               | CSS related files (`.css`, `.scss`, etc)                                                                             |
-| Book            | ![book](icons/book_light.svg)               | `.md` and other documentation files                                                                                  |
-| Package/Archive | ![package](icons/package_light.svg)         | Package/archive files                                                                                                |
-| Image           | ![image](icons/image_light.svg)             | Images (`.svg`. `.png`, etc)                                                                                         |
-| Camera          | ![camera](icons/camera_light.svg)           | Snapshots (`.snap`)                                                                                                  |
-| Database        | ![database](icons/database_light.svg)       | Data files (`.json`, `.sql`)                                                                                         |
-| Terminal        | ![terminal](icons/terminal_light.svg)       | `.zshrc`, `.bashrc`                                                                                                  |
-| Lock            | ![lock](icons/lock_light.svg)               | `.lock`                                                                                                              |
-| Info            | ![info](icons/info_light.svg)               | Log files                                                                                                            |
-| Git             | ![git](icons/git_light.svg)                 | Git-related files (`.gitignore`)                                                                                     |
+| Name            | Icon                                           | Purpose                                                                                                              |
+| --------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Folder          | ![folder](icons/folder_light@2x.png)           | Collapsed Folders                                                                                                    |
+| Folder (Open)   | ![open-folder](icons/folder-open_light@2x.png) | Expanded Folders                                                                                                     |
+| File            | ![file](icons/file_light@2x.png)               | Fallback for files not decorated by another icon. In the minimal theme, it represents anything that is not a folder. |
+| Settings        | ![settings](icons/settings_light@2x.png)       | `package.json` and other configuration-related files                                                                 |
+| Prettier        | ![prettier](icons/prettier_light@2x.png)       | `.prettierrc`                                                                                                        |
+| ESLint          | ![eslint](icons/eslint_light@2x.png)           | `eslint` configurations                                                                                              |
+| Code            | ![code](icons/code_light@2x.png)               | Source code files (`.js`, `.py`, etc)                                                                                |
+| Markup          | ![markup](icons/html_light@2x.png)             | `.html`, `.xml`, etc                                                                                                 |
+| Hash            | ![hash](icons/hash_light@2x.png)               | CSS related files (`.css`, `.scss`, etc)                                                                             |
+| Book            | ![book](icons/book_light@2x.png)               | `.md` and other documentation files                                                                                  |
+| Package/Archive | ![package](icons/package_light@2x.png)         | Package/archive files                                                                                                |
+| Image           | ![image](icons/image_light@2x.png)             | Images (`.svg`, `.png`, etc)                                                                                         |
+| Camera          | ![camera](icons/camera_light@2x.png)           | Snapshots (`.snap`)                                                                                                  |
+| Database        | ![database](icons/database_light@2x.png)       | Data files (`.json`, `.sql`)                                                                                         |
+| Terminal        | ![terminal](icons/terminal_light@2x.png)       | `.zshrc`, `.bashrc`                                                                                                  |
+| Lock            | ![lock](icons/lock_light@2x.png)               | `.lock`                                                                                                              |
+| Info            | ![info](icons/info_light@2x.png)               | Log files                                                                                                            |
+| Git             | ![git](icons/git_light@2x.png)                 | Git-related files (`.gitignore`)                                                                                     |
 
 ## Credits
 
