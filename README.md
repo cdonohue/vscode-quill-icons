@@ -1,4 +1,4 @@
-<img align="left" style="width: 64px !important; margin-right: 8px !important;;" src="icons/quill_light.svg">
+<img align="left" src="icons/quill_light.svg">
 
 # Quill Icons
 
