@@ -15,12 +15,12 @@
       {
         "id": "quill-icons",
         "label": "Quill Icons",
-        "path": "src/quill-icon-theme.json"
+        "path": "quill-icon-theme.json"
       },
       {
         "id": "quill-icons-minimal",
         "label": "Quill Icons (Minimal)",
-        "path": "src/quill-minimal-icon-theme.json"
+        "path": "quill-minimal-icon-theme.json"
       }
     ]
   },
