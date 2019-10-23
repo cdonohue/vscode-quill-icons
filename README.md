@@ -2,17 +2,21 @@
 
 # Quill Icons
 
-A light/dark file icon set for VSCode that borrows from and extends [Feather Icons](https://feathericons.com). A minimal icon theme is also included that only differentiates files and folders.
+A light/dark low contrast file icon set for VSCode that borrows from and extends [Feather Icons](https://feathericons.com). A minimal icon theme is also included that only differentiates files and folders.
 
 ### Screenshots
 
 #### Full icon theme
 
-> ![dark](screenshots/demo-dark.png) > ![light](screenshots/demo-light.png)
+> ![dark](screenshots/demo-dark.png) 
+
+> ![light](screenshots/demo-light.png)
 
 #### Minimal icon theme
 
-> ![dark-minimal](screenshots/demo-dark-minimal.png) > ![light-minimal](screenshots/demo-light-minimal.png)
+> ![dark-minimal](screenshots/demo-dark-minimal.png) 
+
+> ![light-minimal](screenshots/demo-light-minimal.png)
 
 ### Icon reference
 
