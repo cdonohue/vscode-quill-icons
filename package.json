@@ -22,7 +22,7 @@
     "color": "#232830",
     "theme": "dark"
   },
-  "icon": "icons/quill_light@3x.png",
+  "icon": "https://github.com/cdonohue/vscode-quill-icons/raw/master/icons/quill_light@3x.png",
   "contributes": {
     "iconThemes": [
       {

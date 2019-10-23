@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="icons/quill_light.svg" alt="Quill Icons Logo">
+<img align="left" width="80" height="80" src="https://github.com/cdonohue/vscode-quill-icons/raw/master/icons/quill_light.svg" alt="Quill Icons Logo">
 
 # Quill Icons
 
@@ -8,15 +8,15 @@ A light/dark low contrast file icon set for VSCode that borrows from and extends
 
 #### Full icon theme
 
-> ![dark](screenshots/demo-dark.png) 
+> ![dark](https://github.com/cdonohue/vscode-quill-icons/raw/master/screenshots/demo-dark.png)
 
-> ![light](screenshots/demo-light.png)
+> ![light](https://github.com/cdonohue/vscode-quill-icons/raw/master/screenshots/demo-light.png)
 
 #### Minimal icon theme
 
-> ![dark-minimal](screenshots/demo-dark-minimal.png) 
+> ![dark-minimal](https://github.com/cdonohue/vscode-quill-icons/raw/master/screenshots/demo-dark-minimal.png)
 
-> ![light-minimal](screenshots/demo-light-minimal.png)
+> ![light-minimal](https://github.com/cdonohue/vscode-quill-icons/raw/master/screenshots/demo-light-minimal.png)
 
 ### Icon reference
 
