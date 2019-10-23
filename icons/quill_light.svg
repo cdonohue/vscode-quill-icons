@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>quill_light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="23.5" cy="23.5" r="23.5"></circle>
+        <filter x="-11.7%" y="-7.4%" width="123.4%" height="123.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6,0 C9.14502424,0 11.7248829,2.41976132 11.9793885,5.49909633 L12,5.5 L12,17.9129544 C12,18.2450293 11.8351536,18.5554435 11.5600412,18.7414191 L6.56004116,22.1214129 C6.22170678,22.3501265 5.77829322,22.3501265 5.43995884,22.1214129 L0.439958842,18.7414191 C0.16484642,18.5554435 1.37293508e-15,18.2450293 0,17.9129544 L0,5.5 L0,5.5 L0.0206115082,5.49909633 C0.275117052,2.41976132 2.85497576,0 6,0 Z" id="path-3"></path>
+    </defs>
+    <g id="quill_light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(9.000000, 9.000000)">
+            <g id="Oval" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#D8D8D8" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group" transform="translate(17.000000, 7.500000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <path stroke="#22292F" stroke-width="2" d="M1,5.78973526 L1,17.9129544 L6,21.2929481 L11,17.9129544 L11,5.78973526 L10.9827866,5.58146499 C10.769583,3.00185465 8.60584052,1 6,1 C3.39415948,1 1.23041698,3.00185465 1.01721344,5.58146499 L1,5.78973526 Z"></path>
+                <polygon id="Rectangle" fill="#DCDCDC" fill-rule="nonzero" mask="url(#mask-4)" points="7 14.873898 10 12.837901 10 17.3809846 7 19.4078566"></polygon>
+                <rect id="Rectangle" fill="#22292F" fill-rule="nonzero" x="5" y="5" width="2" height="21" rx="1"></rect>
+                <rect id="Rectangle-Copy-3" fill="#22292F" fill-rule="nonzero" transform="translate(8.414519, 12.720404) rotate(56.000000) translate(-8.414519, -12.720404) " x="7.41451879" y="9.22040355" width="2" height="7" rx="1"></rect>
+                <path d="M2.79534955,25 C2.55151491,25 2.34323962,25.1758828 2.30240933,25.4162746 L1.28331581,31.4162746 C1.27861763,31.4439356 1.27625604,31.4719429 1.27625604,31.5 C1.27625604,31.7761424 1.50011366,32 1.77625604,32 L10.2346823,32 C10.2617222,32 10.2887175,31.9978065 10.3154026,31.9934412 C10.5879227,31.9488606 10.7727041,31.6917997 10.7281235,31.4192797 L9.74660443,25.4192797 C9.70705363,25.1775067 9.49814986,25 9.25316322,25 L2.79534955,25 Z" id="Rectangle" stroke="#22292F" stroke-width="2" fill="#6495ED" fill-rule="nonzero"></path>
+                <polygon id="Rectangle" fill-opacity="0.12" fill="#000000" fill-rule="nonzero" points="6 26 8.82565759 26 9.64678347 31 6 31"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

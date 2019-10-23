@@ -1,0 +1,33 @@
+{
+  "name": "quill-icons",
+  "displayName": "Quill Icons",
+  "description": "A beautiful icon set extended from the Feather Icons collection",
+  "version": "0.0.1",
+  "publisher": "cdonohue",
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "quill-icons",
+        "label": "Quill Icons",
+        "path": "src/quill-icon-theme.json"
+      },
+      {
+        "id": "quill-icons-minimal",
+        "label": "Quill Icons (Minimal)",
+        "path": "src/quill-minimal-icon-theme.json"
+      }
+    ]
+  },
+  "prettier": {
+    "bracketSpacing": true,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
