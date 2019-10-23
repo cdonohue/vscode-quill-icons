@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="https://github.com/cdonohue/vscode-quill-icons/raw/master/icons/quill_light.svg" alt="Quill Icons Logo">
+<img align="left" width="80" height="80" src="https://github.com/cdonohue/vscode-quill-icons/raw/master/icons/quill_light@2x.png" alt="Quill Icons Logo">
 
 # Quill Icons
 
