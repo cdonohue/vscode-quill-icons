@@ -4,12 +4,25 @@
   "description": "A beautiful icon set extended from the Feather Icons collection",
   "version": "0.0.1",
   "publisher": "cdonohue",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.39.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "icons",
+    "icon",
+    "theme",
+    "clean",
+    "minimal"
+  ],
+  "galleryBanner": {
+    "color": "#232830",
+    "theme": "dark"
+  },
+  "icon": "icons/quill_light@3x.png",
   "contributes": {
     "iconThemes": [
       {
@@ -29,5 +42,10 @@
     "semi": false,
     "singleQuote": true,
     "trailingComma": "es5"
+  },
+  "repository": "https://github.com/cdonohue/vscode-quill-icons.git",
+  "author": "Chad Donohue <chad.donohue@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/cdonohue/vscode-quill-icons/issues"
   }
 }
