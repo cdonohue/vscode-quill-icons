@@ -126,7 +126,9 @@
     "zshrc": "_terminal_dark",
     "lock": "_lock_dark",
     "log": "_info_dark",
-    "snap": "_camera_dark"
+    "snap": "_camera_dark",
+    "eex": "_html_dark",
+    "heex": "_html_dark"
   },
   "languageIds": {
     "bat": "_terminal_dark",
@@ -165,10 +167,12 @@
     "typescript": "_code_dark",
     "typescriptreact": "_code_dark",
     "xml": "_code_dark",
-    "yaml": "_code_dark"
+    "yaml": "_code_dark",
+    "elixir": "_code_dark"
   },
   "fileNames": {
     "package.json": "_settings_dark",
+    "mix.exs": "_settings_dark",
     ".prettierrc": "_prettier_dark",
     ".prettierignore": "_prettier_dark",
     ".eslintignore": "_eslint_dark",
@@ -201,7 +205,9 @@
       "zshrc": "_terminal_light",
       "lock": "_lock_light",
       "log": "_info_light",
-      "snap": "_camera_light"
+      "snap": "_camera_light",
+      "eex": "_html_light",
+      "heex": "_html_light"
     },
     "languageIds": {
       "bat": "_terminal_light",
@@ -240,10 +246,12 @@
       "typescript": "_code_light",
       "typescriptreact": "_code_light",
       "xml": "_code_light",
-      "yaml": "_code_light"
+      "yaml": "_code_light",
+      "elixir": "_code_light"
     },
     "fileNames": {
       "package.json": "_settings_light",
+      "mix.exs": "_settings_light",
       ".prettierrc": "_prettier_light",
       ".prettierignore": "_prettier_light",
       ".eslintignore": "_eslint_light",
